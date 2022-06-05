@@ -1,3 +1,4 @@
+.footer-bar,
 .navbar {
 background: #000;
 height: 80px;
@@ -10,10 +11,30 @@ top: 0;
 z-index: 999;
 }
 
+.footer-bar {
+    opacity: 0;
+}
+
 .navbar-container {
 display: flex;
 justify-content: center;
 align-items: center;
 height: 80px;
 max-width: 1500px;
+}
+
+.footer, 
+.footer-last {
+    display: inline-block;
+    color: white;
+    padding: 0 2rem;
+    font-size: 14px;
+}
+
+.footer {
+    border-right: 2px solid white;
+}
+
+.footer-bar:hover {
+    opacity: 1;
 }

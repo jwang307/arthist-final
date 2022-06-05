@@ -1,0 +1,12 @@
+img {
+    width: 100%;
+    height: auto;
+    margin: auto;
+    display: block;
+    align-items: center;
+    border-radius: 10px;
+}
+
+p {
+    padding: 10px 0;
+}

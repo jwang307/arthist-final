@@ -10,14 +10,14 @@ function CardList() {
           <div className='cards__wrapper'>
             <ul className='cards__items'>
                 <Card
-                src='images/soa.jpg'
-                text='The School of Athens'
-                path='/test-art'
+                src='images/ls.jpeg'
+                text='Libyan Sibyl'
+                path='/libyan-sibyl'
                 />
                 <Card
                 src='images/vou.jpg'
                 text='Venus of Urbino'
-                path='/test-art-2'
+                path='/venus-urbino'
                 />
             </ul>
           </div>
