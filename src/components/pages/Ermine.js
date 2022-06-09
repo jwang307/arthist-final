@@ -74,7 +74,7 @@ function TestArt() {
               <DialogContent>
                 <img src='images/ermine/eyes.png' alt = 'filler'/>
                 <DialogContentText id='dialog-desc'>
-                  <p>Da Vinci utilized several techniques to enhance the beauty of the subject in this portrait. One of the most unique are the dots of white in the pupil of the subject, which are meant to simulate reflected light and create a sense of sparkling in the eyes. Another more common technique that Da Vinci pioneered was sfumato in the oil medium, which resulted in the smooth gradients of skin tone across the face and upper chest.</p>
+                  <p>Da Vinci utilized several techniques to enhance the beauty of the subject in this portrait. One of the most unique are the dots of white in the pupil of the subject, which are meant to simulate reflected light and create a sense of sparkling in the eyes. Another more common technique that Da Vinci pioneered was sfumato in the oil medium, which resulted in the smooth gradients of skin tone across the face and upper chest (Masters 17).</p>
                 </DialogContentText>
               </DialogContent>
               <DialogActions>
@@ -112,7 +112,7 @@ function TestArt() {
         </div>
         <div className='intro'>
             <h1 className='overview'>Overview</h1>
-            <p>Lady with an Ermine is one of the only surviving portrait paintings by the great polymath Leonardo Da Vinci. Painted in 1490, the work depicts Cecilia Gallerani, a mistress to Ludovico Sforza, whom Da Vinci was the court painter for at the time. Over time, the painting has become an iconic of the ways Da Vinci incorporates symbols of the house and the subject within the painting - the most obvious of which is the house symbol that Gallerani caresses. In this page, we will explore the techniques that Da Vinci used to idealize the beauty of the subject as well as several motifs of this idealization, such as hints of eroticism and the positioning of the subject. </p>
+            <p><i>Lady with an Ermine</i> is one of the only surviving portrait paintings by the great polymath Leonardo Da Vinci. Painted in 1490, the work depicts Cecilia Gallerani, a mistress to Ludovico Sforza, whom Da Vinci was the court painter for at the time. Over time, the painting has become an iconic of the ways Da Vinci incorporates symbols of the house and the subject within the painting - the most obvious of which is the house symbol that Gallerani caresses. In this page, we will explore the techniques that Da Vinci used to idealize the beauty of the subject as well as several motifs of this idealization, such as hints of eroticism and the positioning of the subject. </p>
         </div>
         <div className='intro'>
             <h1 className='overview'>Citations</h1>
