@@ -11,10 +11,6 @@ top: 0;
 z-index: 999;
 }
 
-.footer-bar {
-    opacity: 0;
-}
-
 .navbar-container {
 display: flex;
 justify-content: center;

@@ -10,3 +10,12 @@ img {
 p {
     padding: 10px 0;
 }
+
+li {
+    color: white;
+}
+
+.space {
+    height: 100px;
+    color: black;
+}

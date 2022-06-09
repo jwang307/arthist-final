@@ -43,8 +43,41 @@ align-items: center;
 justify-content: center;
 font-size: 3rem;
 }
-.test-art,
-.test-art-2 {
+
+.ermine {
+    background-color: black;
+    color: white;
+    display: flex;
+    height: 110vh;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 50px;
+    border-radius: 10px;
+    background-image: url('/public/images/ermine/painting.png');
+}
+
+.ls {
+    background-color: black;
+    color: white;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 50px;
+    border-radius: 10px;
+    background-image: url('/public/images/sibyl/ls.jpeg');
+}
+.sapl {
     background-color: black;
     color: white;
     display: flex;
@@ -58,12 +91,57 @@ font-size: 3rem;
     color: #fff;
     font-size: 50px;
     border-radius: 10px;
+    background-image: url('/public/images/love/sapl.jpg');
 }
 
-.test-art {
-    background-image: url('/public/images/ls.jpeg');
+.judith {
+    background-color: black;
+    color: white;
+    display: flex;
+    height: 110vh;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 50px;
+    border-radius: 10px;
+    background-image: url('/public/images/judith/painting.png');
 }
-.test-art-2 {
-    background-image: url('/public/images/vou.jpg');
+
+.anguissola {
+    background-color: black;
+    color: white;
+    display: flex;
+    height: 180vh;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 50px;
+    border-radius: 10px;
+    background-image: url('/public/images/anguissola/painting.jpeg');
+}
+
+.sp {
+    background-color: black;
+    color: white;
+    display: flex;
+    height: 180vh;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 50px;
+    border-radius: 10px;
+    background-image: url('/public/images/selfportrait/painting.png');
 }
 
