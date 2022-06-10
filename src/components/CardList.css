@@ -31,8 +31,8 @@ h1 {
     flex: 1;
     margin: 0 1rem;
     border-radius: 10px;
-    height: 300px;
-    width: 400px;
+    height: 240px;
+    width: 300px;
     display: inline-block;
 }
 
@@ -103,3 +103,21 @@ h1 {
     font-size: 18px;
     text-align: center;
 }
+
+@media only screen and (min-width: 1200px) {
+    .content__blog__container {
+      width: 84%;
+    }
+  }
+  
+  @media only screen and (min-width: 1024px) {
+    .cards__items {
+      display: flex;
+    }
+  }
+  
+  @media only screen and (max-width: 1024px) {
+    .cards__item {
+      margin-bottom: 2rem;
+    }
+  }    
